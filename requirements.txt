@@ -1,0 +1,5 @@
+torch
+ultralytics==8.0.43
+ultralyticsplus==0.0.28
+opencv_python
+requests>=2.23.0
